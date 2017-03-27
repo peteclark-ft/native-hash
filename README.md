@@ -1,2 +1,7 @@
-# native-hash
-Native Hash Generator for Carousel Testing
+# Native Hash Generator
+
+To use:
+
+```
+native-hash ${uuid} ${collection}
+```
